@@ -1,0 +1,6 @@
+apiVersion: "crds.example.com/v1"
+kind: SuperPod
+metadata:
+  name: superawesomepod
+spec:
+  image: nginx-unpriviledged
